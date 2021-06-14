@@ -1,2 +1,0 @@
-# UI_TASK
-# UI-TASK

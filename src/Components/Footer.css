@@ -1,0 +1,45 @@
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 80px;
+  font-family: "Libre Baskerville", serif;
+  color: #ffff;
+}
+
+.footer-left-text-1 {
+  padding-top: 20px;
+}
+
+.footer-left-text-2 {
+  margin-top: 50px;
+  font-weight: bolder;
+}
+
+.body-ul {
+  padding-left: 10px;
+  list-style-type: none;
+  text-align: center;
+}
+
+.body-ul > li {
+  font-weight: normal;
+  padding-top: 10px;
+  display: grid;
+}
+
+.body-right-ul {
+  display: flex;
+  list-style-type: none;
+}
+
+.body-right-ul > li {
+  padding-left: 10px;
+}
+
+.footer-middle > div {
+  font-weight: bold;
+}
+
+.footer-right > div {
+  font-weight: bold;
+}

@@ -1,0 +1,91 @@
+.content {
+  font-family: "Libre Baskerville", serif;
+  color: #375b5c;
+  margin-top: 20px;
+}
+
+.content-top-text {
+  padding-top: 10px;
+}
+
+.content-cards {
+  padding-top: 90px;
+}
+
+.content-card-img {
+  padding-left: 32px;
+}
+
+.content-mid {
+  margin-top: 80px;
+  margin-bottom: 50px;
+}
+
+.content-mid-images {
+  margin-top: 40px;
+}
+
+.content-mid-img {
+  margin-right: 50px;
+  margin-left: 50px;
+}
+.dots {
+  margin-top: 50px;
+}
+
+.dot {
+  height: 10px;
+  width: 10px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 4px;
+}
+
+.dot1 {
+  height: 10px;
+  width: 10px;
+  background-color: #00dbd0;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 4px;
+}
+
+.jane {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  padding-top: 20px;
+}
+
+.jane-text {
+  padding-top: 10px;
+  font-size: large;
+}
+
+.content-text1 {
+  padding-top: 20px;
+  font-size: x-large;
+  padding-bottom: 10px;
+}
+
+.content-text2 {
+  font-size: medium;
+  padding-bottom: 20px;
+}
+
+.content-subscribe {
+  height: 30px;
+  margin-bottom: 40px;
+}
+
+.content-subscribe-input {
+  border: 1px soild black;
+  padding: 20px;
+}
+
+.card {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 20px;
+}
